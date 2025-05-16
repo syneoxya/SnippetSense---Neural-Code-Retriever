@@ -3,21 +3,7 @@
 
 SnippetSense is a retrieval‑based code search engine that lets you enter a natural‑language description and instantly retrieve the most semantically relevant Python code snippets from your corpus. Under the hood it uses a dual‑encoder (CodeBERT) fine‑tuned with contrastive (InfoNCE) loss and Low‑Rank Adaptation (LoRA) for efficient adaptation, plus FAISS for sub‑second nearest‑neighbor lookup.
 
----
 
-## Table of Contents
-
-- [Features](#features)  
-- [Installation](#installation)  
-- [Data Preparation](#data-preparation)  
-- [Training](#training)  
-- [Inference & Retrieval](#inference--retrieval)  
-- [Web Demo](#web-demo)  
-- [Evaluation Metrics](#evaluation-metrics)  
-- [Future Work](#future-work)  
-- [License](#license)  
-
----
 
 ## Features
 
