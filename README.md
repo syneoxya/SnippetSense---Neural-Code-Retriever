@@ -24,5 +24,5 @@ SnippetSense is a retrieval‑based code search engine that lets you enter a nat
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/SnippetSense.git
+   git clone https://github.com/syneoxya/SnippetSense.git
    cd SnippetSense
